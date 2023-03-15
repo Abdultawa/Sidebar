@@ -84,7 +84,7 @@ label #cancel{
 
 }
 section{
-    background: url(bg.jpg);
+    /* background: url(bg.jpg); */
     background-position: center;
     background-size: cover;
     height: 100vh;
